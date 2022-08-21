@@ -1,0 +1,12 @@
+{
+  "name": "renderinghtml",
+  "version": "1.0.0",
+  "description": "A project that renders html depending on the route specified by the anchor tag",
+  "main": "function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Vic",
+  "license": "ISC"
+}
